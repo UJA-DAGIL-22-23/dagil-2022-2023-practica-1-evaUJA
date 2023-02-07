@@ -12,4 +12,4 @@ Profesor del departamento de Informática de la Universidad de Jaén.
 * **Correo**: vrivas@ujaen.es
 * **Web**: http://vrivas.es
 * **GitHub**: https://github.com/vrivas/
-* **Trello**: https://trello.com/b/W2SfIuJf/practica1
+* **Trello**: https://trello.com/b/vrivas/
