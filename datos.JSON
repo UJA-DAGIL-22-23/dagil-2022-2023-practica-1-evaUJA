@@ -1,0 +1,26 @@
+{ 
+
+"nombre" : "Eva Temes Moya",
+
+"descripcion" : "Estudiante de Informática de la Universidad de Jaén.",
+
+"correo" : "etm00016@red.ujaen.es",
+
+"github" : "https://github.com/evaUJA/",
+
+"trello" :  "https://trello.com/b/W2SfIuJf/practica1"
+
+"foto" : "https://github.com/UJA-DAGIL-22-23/dagil-2022-2023-practica-1-evaUJA/blob/main/imagen.JPG",
+
+"capturas": [
+
+              "https://github.com/UJA-DAGIL-22-23/dagil-2022-2023-practica-1-evaUJA/blob/main/trelloInicio.jpeg",
+
+              "https://github.com/UJA-DAGIL-22-23/dagil-2022-2023-practica-1-evaUJA/blob/main/trelloFinal.JPG",
+
+		"https://github.com/UJA-DAGIL-22-23/dagil-2022-2023-practica-1-evaUJA/blob/main/imagen.JPG"
+
+
+]
+
+}
