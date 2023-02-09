@@ -9,3 +9,5 @@ Estudiante de Informática de la Universidad de Jaén.
 <img src='/GitHub.JPG' width='600px'>
 
 * **Trello**: https://trello.com/b/W2SfIuJf/practica1
+<img src='/trelloInicio.jpeg' width='600px'>
+<img src='/trelloFinal.JPG' width='600px'>
